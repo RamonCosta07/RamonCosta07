@@ -1,4 +1,4 @@
-### Olá! Eu sou o RamonCosta07
+### Olá! Bem vindos ao meu perfil :)
 
 <div align="center">
   <a href="https://github.com/RamonCosta07">
@@ -13,6 +13,7 @@
   <img align="center" alt="Ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ramon-Mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/hGDKzrp1/b60c0d05-b38f-4151-a693-06f6b99a6838.jpg">
+  <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
    ##
