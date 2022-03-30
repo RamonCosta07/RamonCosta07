@@ -14,6 +14,8 @@
   <img align="center" alt="Ramon-Mysql" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/hGDKzrp1/b60c0d05-b38f-4151-a693-06f6b99a6838.jpg">
   <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ramon-ReactJs" height="30" width="40" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  
 </div>
 
    ##
